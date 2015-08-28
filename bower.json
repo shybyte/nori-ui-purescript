@@ -12,5 +12,8 @@
   ],
   "dependencies": {
     "purescript-console": "^0.1.0"
+  },
+  "devDependencies": {
+    "purescript-halogen": "master"
   }
 }
