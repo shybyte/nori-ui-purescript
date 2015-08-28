@@ -1,0 +1,20 @@
+{
+  "name": "nori-ui-purescript",
+  "version": "0.0.0",
+  "description": "Nori loves purescript in the UI",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Stahl",
+  "license": "AGPL",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-shell": "~0.4.2",
+    "browser-sync": "~2.8.2"
+  }
+}

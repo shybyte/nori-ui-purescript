@@ -1,0 +1,9 @@
+.idea
+node_modules
+bower_components
+output
+
+.psci
+/.browserify-cache.json
+/app.js
+.psci_modules

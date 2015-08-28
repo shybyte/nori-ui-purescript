@@ -1,0 +1,11 @@
+Doing:
+
+
+TODO:
+  * Show lyrics textarea
+  * Add Play Button
+  * Translate to phoneme (ajax call to nori-server) on button click
+  * Display Phoneme
+
+Done:
+    * Project setup
