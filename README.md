@@ -1,6 +1,6 @@
 # Nori UI PureScript
 
-[![Build Status](https://travis-ci.org/shybyte/nori-server-purescript.svg?branch=master)](https://travis-ci.org/shybyte/nori-ui-purescript)
+[![Build Status](https://travis-ci.org/shybyte/nori-ui-purescript.svg?branch=master)](https://travis-ci.org/shybyte/nori-ui-purescript)
 
 Nori will sing for you.
 
