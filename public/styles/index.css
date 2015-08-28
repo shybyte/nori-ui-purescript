@@ -1,3 +1,13 @@
 h1 {
   color: silver;
 }
+
+textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+.phonemes {
+  background: yellow;
+}
